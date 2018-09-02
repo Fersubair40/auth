@@ -1,0 +1,65 @@
+.container {
+    background-color: #D7EFEE;
+    background-image: url(https://cdn-images-1.medium.com/proxy/1*lQWWgHf-jUvQVEyAKQLIkw@2x.png);
+    background-position: 20px 100%;
+    background-size: auto 290px;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+    position: relative;
+    align-self: center;
+    width: 900px;
+    height: 550px;
+    text-align: center;
+    padding: 50px;
+    margin: 30px 195px;
+    box-sizing: border-box
+}
+
+.containersm {
+    width: 400px;
+    height: 550px;
+    margin: auto;
+}
+
+h1 {
+    font-family: "Georgia", "Cambria", "Times New Roman", Times, serif;
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: "Georgia", "Cambria", "Times New Roman", Times, serif;
+    font-size: 17px;
+    font-weight: 100;
+    line-height: 24px;
+    letter-spacing: 0em;
+}
+
+.btnsign2 {
+    background: #fff;
+    width: 300px;
+    height: 37px;
+    line-height: 37px;
+    border: 0;
+    padding: 0 18px;
+    border-radius: 4px;
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    color: rgba(0, 0, 0, .84);
+    margin-bottom: 15px;
+}
+
+.btnsigntxt2 {
+    color: rgba(0, 0, 0, .84);
+    fill: rgba(0, 0, 0, .84);
+    font-family: "Georgia", "Cambria", "Times New Roman", Times, serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 10px;
+}
+
+.fa-facebook {
+    color: rgb(28, 79, 102);
+}
